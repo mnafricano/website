@@ -64,3 +64,18 @@ i {
     width: 25%;
     height: 3px;
 }
+
+a {
+    text-decoration: none;
+    color: #fff;
+    
+    transition: all 0.3s ease;
+}
+
+a:hover {
+    color: #eee;
+}
+
+a:active {
+    color: #e62900;
+}
